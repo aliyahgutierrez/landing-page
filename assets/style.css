@@ -27,3 +27,14 @@
     background-color: #04AA6D;
     color: white;
   }
+ .box1 {
+    width: 340px;
+    height: 280px;
+    border: 7px solid blue;
+    box-sizing: border-box;
+  }
+  img{
+      width: 275px;
+      height:215px;
+      padding:24px;
+  }
