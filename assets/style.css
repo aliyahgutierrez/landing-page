@@ -7,10 +7,9 @@ body{
     position:fixed;
     top: 0;
     width: 100%;
-  }
-  
-  /* Style the links inside the navigation bar */
-  .topnav a {
+}
+
+.topnav a {
     float: right;
     display: block;
     color: white;
@@ -18,30 +17,25 @@ body{
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-  }
-  
-  /* Change the color of links on hover */
-  .topnav a:hover {
+}
+.topnav a:hover {
     background-color: black;
     color: white;
-  }
-  
-  /* Add a color to the active/current link */
-  .topnav a.active {
+}
+.topnav a.active {
     background-color: #04AA6D;
     color: white;
-  }
+}
 
-  .header{
-      width:100%;
-      background-color:#2A3D45;
-      padding:20px;
-      text-align: center;
-      color:white;
-      margin-top: 35px;
-  }
- 
-  .box1 {
+.header{
+width:100%;
+background-color:#2A3D45;
+padding:20px;
+text-align: center;
+color:white;
+margin-top: 35px;
+}
+.box1 {
     display: block;
     margin-left:auto;
     margin-right:auto;
@@ -50,29 +44,22 @@ body{
     border: 7px solid #85BDBF;
     box-sizing: border-box;
     background-color: #72A276;
-    /* 340
-    280
-    7 */
-  }
-  img {
+}
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top:20px;
     margin-bottom:20px;
     width: 50%;
-    /* display:center;
-    width: 90%;
-    height:25%; */
-    /* padding:70px; */
-  }
+}
 
-  .container{
-      width:100%;
-      height:100%;
-      background-color:#2A3D45;
-      color:white;
-  }
+.container{
+width:100%;
+height:100%;
+background-color:#2A3D45;
+color:white;
+}
 
 #conact,form, p, h2{
     text-align:center;
